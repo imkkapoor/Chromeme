@@ -1,0 +1,14 @@
+{
+  "name": "chromeme",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "pinkglock128.png"
+  },
+  "icons": {
+    "128": "pinkglock128.png",
+    "64": "pinkglock64.png"
+  },
+  "permissions": ["activeTab"]
+}

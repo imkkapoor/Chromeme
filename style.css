@@ -1,0 +1,36 @@
+img{
+    border-radius: 7px;
+    margin: 2px;
+    width: 325px;
+     
+}
+
+
+
+*{
+    background-color: rgba(0, 0, 0, 1);
+    
+}
+
+#github{
+    font-size:11px;
+    display: flex;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    justify-content: end;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+
