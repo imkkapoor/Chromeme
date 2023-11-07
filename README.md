@@ -1,2 +1,2 @@
 # Chromeme
-A chrome extension that gets you a little laugh with memes when you are struggling!
+A chrome extension that fetches memes from an API and show them on just one click!
